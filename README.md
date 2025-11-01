@@ -15,3 +15,4 @@ This project is focused on analyzing global CO2 emissions trends from 1960 to 20
 - To gain a deeper understanding of the environmental impact of different countries.
 - To analyze the relationship between CO2 emissions and other factors like economic changes, political decisions, and global events (like the Soviet collapse).
 - To highlight the importance of taking action for sustainability and reducing emissions to fight climate change.
+## Gautam Kumar
